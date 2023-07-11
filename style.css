@@ -6,7 +6,7 @@
 
 html {
   background-color: #212121;
-  background-image: url("/Images/bg.jpg");
+  background-image: url("Images/bg.jpg");
 background-attachment: fixed;
 background-size: cover;
 
